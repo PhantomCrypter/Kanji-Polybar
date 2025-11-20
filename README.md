@@ -93,22 +93,17 @@ O copiar los archivos dentro de:
 
 ## 🎨 Tabla de Opacidades (HEX → %)
 
-  Alfa (Hex)   Opacidad   Ejemplo
-  ------------ ---------- -------------
-  `BF`         75%        `#BF1D1F28`
-  `99`         60%        `#991D1F28`
-  `80`         50%        `#801D1F28`
-  `66`         40%        `#661D1F28`
-  `44`         26%        `#441D1F28`
+| Alfa (Hex) | Opacidad | Ejemplo |
+|------------|----------|---------|
+| `BF`       | 75%      | `#BF1D1F28` |
+| `99`       | 60%      | `#991D1F28` |
+| `80`       | 50%      | `#801D1F28` |
+| `66`       | 40%      | `#661D1F28` |
+| `44`       | 26%      | `#441D1F28` |
+
 
 ## 🖼️ Capturas de pantalla
 
-`<imagen>`{=html}\
-`<imagen>`{=html}\
-`<imagen>`{=html}
+<img src="images/screenshot2.png" width="800">
 
-## 📜 Licencia
-
-Este proyecto no tiene licencia asignada aún. Recomiendo usar **MIT**,
-**GPL-3.0** o **Apache-2.0**.
 
